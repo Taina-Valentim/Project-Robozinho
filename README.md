@@ -4,7 +4,7 @@ Projeto feito em microcontrolador PIC18F4620 para controlar um braço robótico 
 Neste projeto, é possível controlar os servo motores de um braço robótico por PWM
 #
 
-O projeto também conta com um display LCD em quesão exibidas mensgaens como:
+O projeto também conta com um display LCD em que são exibidas mensgaens como:
 - Boas vindas
 - Posição atual dos servos
 - Mensagem de erro com seu respectivo código para auxiliar na resolução
@@ -19,9 +19,9 @@ Cada servo do braço pode atingir 3 posições:
 #
 # Simulação
 
-Para efeitos de simulação, está anexado junto um arquivo de simulação para Proteus 8
+Para efeitos de simulação, está anexado junto ao projeto um arquivo de simulação para Proteus 8
 
 
 # Linguagens
 
--C
+- C
