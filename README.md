@@ -1,5 +1,5 @@
 # Project-Robozinho
-Projeto feito em microcontrolador PIC184620 para controlar um braço robótico por PWM
+Projeto feito em microcontrolador PIC18F4620 para controlar um braço robótico por PWM
 
 #
 
